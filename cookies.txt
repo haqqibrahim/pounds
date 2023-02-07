@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.poundhoundsresq.org	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1675807154|1xjorbhqtCd0
+www.poundhoundsresq.org	TRUE	/	FALSE	1999999999	fedops.logger.defaultOverrides	%7B%22paramsOverridesForApp%22%3A%7B%22music-manager-my-albums%22%3A%7B%22is_rollout%22%3Atrue%7D%7D%7D
+www.poundhoundsresq.org	TRUE	/	FALSE	1999999999	hs	-429224720
+www.poundhoundsresq.org	TRUE	/	FALSE	1999999999	svSession	25b996ac96226c9c8d89af037189333f80ac6511ef83bbd5f3f3fa61e242c989f894c010e12f08df3620afac124e0c171e60994d53964e647acf431e4f798bcda3572efb5d733116c9f485b7b309495ccb531ac178dc07243a7434db10107c98ca3871a74eb63285354c849f9193c231cf1869b30abf2519c495eb6bf47bda19fef0d2c539c535f5722fd37165047d37
+www.poundhoundsresq.org	TRUE	/	FALSE	1999999999	SameSite	None
+www.poundhoundsresq.org	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss_miss#dc#desc=fastly
+
